@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - BG
+  - Grass
+  - player
+  - enemy
+  - post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Main_BG
+    uniqueID: 3888095907
+    locked: 0
+  - name: Sprite-BG
+    uniqueID: 1945897845
+    locked: 0
+  - name: ForeGround
+    uniqueID: 472544453
+    locked: 0
+  - name: 1stForeGround
+    uniqueID: 1078040753
+    locked: 0
+  - name: player
+    uniqueID: 4023745309
+    locked: 0

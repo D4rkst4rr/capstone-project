@@ -1,0 +1,794 @@
+fileFormatVersion: 2
+guid: ebfead5324d02b940b8c165e7370acc6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1230
+        width: 190
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ade5cb1d57a614f9b39caaccfcf18d
+      internalID: -1189447256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1214
+        width: 190
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e3035232207b48ba489920bf534c8
+      internalID: 593637601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1214
+        width: 215
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f57da92dcc7a240adb4a8fe061306b
+      internalID: -1486449437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_3
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1221
+        width: 237
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd878c9dc56c5ed42aef16b11b9e112c
+      internalID: -897245732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_4
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 1221
+        width: 237
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6a94069ba6be41be90aa9a1b7342f
+      internalID: 1805957636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_5
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 1236
+        width: 252
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e9d58ee659a9e44bdf49ee0bd7e1cd
+      internalID: 573754318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_6
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1264
+        width: 301
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a04f61f508b14aa642218d4398ba0
+      internalID: -1730742581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_7
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 1348
+        width: 323
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcee4b372fd8e44eac8f9c11e2000d6
+      internalID: 1397214188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_8
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1432
+        width: 349
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46934c0b64286b845b0f47b4831bac3f
+      internalID: -141952341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_9
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 1516
+        width: 374
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499bf48f69ea87f4d84aaa0cae31107e
+      internalID: -692961967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_10
+      rect:
+        serializedVersion: 2
+        x: 5111
+        y: 1604
+        width: 389
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b57c4b593cdc548a59729296b8d7a1
+      internalID: -1679816829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_11
+      rect:
+        serializedVersion: 2
+        x: 5525
+        y: 1691
+        width: 408
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002bf2c0c8ab8504588f1bd3ac67cd49
+      internalID: 420584591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_12
+      rect:
+        serializedVersion: 2
+        x: 5942
+        y: 1778
+        width: 421
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c12b23a799a784cbcd4ed814e72a17
+      internalID: -1452124710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_13
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1221
+        width: 233
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301da97fc8dcee4188b8608661a0659
+      internalID: 1298294749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_14
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1221
+        width: 233
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0cd39841bf0b46b10b84e42be5bab
+      internalID: 812832462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 529
+        width: 417
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8051e4ff768ab8f459f5197c5d7ca5e4
+      internalID: 720122123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_16
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 464
+        width: 383
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55c6aceb2365fa4e85a1c7a4f501b64
+      internalID: 707017755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_17
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 380
+        width: 336
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ac066127113b47baaf34b7d275964
+      internalID: 798738144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_18
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 299
+        width: 312
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639d4a86bc7e4d4479e48bbfa6e157a2
+      internalID: -139768636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_19
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 212
+        width: 314
+        height: 613
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff20837e275cd4ba2a1eb568fddb23
+      internalID: 1518685607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_20
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 115
+        width: 317
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab99d27102a32b44a86c20e58d76afb
+      internalID: -1723150479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_21
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 44
+        width: 308
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe4c4b2071308b47ab66d3f52d54d7a
+      internalID: -180062435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_22
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 0
+        width: 299
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa2bb33b5d00034e925adca5576565c
+      internalID: 1884964009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_23
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 3
+        width: 277
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c206915a8c316243bce478df496c0d4
+      internalID: -923818161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_24
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 3
+        width: 256
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34756448bc349447ba1cf258bc10ce2
+      internalID: -16250518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_25
+      rect:
+        serializedVersion: 2
+        x: 4377
+        y: 6
+        width: 230
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9524b52c28d947a75edb04699529b
+      internalID: 712564903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_26
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 12
+        width: 224
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7744b8376681f02458644fb086f24f36
+      internalID: -509358860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_27
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 9
+        width: 205
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b0e78fe19739b48b58ad23827e1c15
+      internalID: -436576958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_28
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 6
+        width: 190
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ccd8a4e64ecdc4e8a1fcc0ccd2b848
+      internalID: -1284929435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC PLAYER JUMP_29
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 12
+        width: 190
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853258e0ad7b49f429edc80c06b74e7f
+      internalID: -355428632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MC PLAYER JUMP_18: -139768636
+      MC PLAYER JUMP_13: 1298294749
+      MC PLAYER JUMP_17: 798738144
+      MC PLAYER JUMP_23: -923818161
+      MC PLAYER JUMP_22: 1884964009
+      MC PLAYER JUMP_7: 1397214188
+      MC PLAYER JUMP_5: 573754318
+      MC PLAYER JUMP_25: 712564903
+      MC PLAYER JUMP_2: -1486449437
+      MC PLAYER JUMP_27: -436576958
+      MC PLAYER JUMP_0: -1189447256
+      MC PLAYER JUMP_3: -897245732
+      MC PLAYER JUMP_12: -1452124710
+      MC PLAYER JUMP_28: -1284929435
+      MC PLAYER JUMP_29: -355428632
+      MC PLAYER JUMP_19: 1518685607
+      MC PLAYER JUMP_1: 593637601
+      MC PLAYER JUMP_14: 812832462
+      MC PLAYER JUMP_24: -16250518
+      MC PLAYER JUMP_10: -1679816829
+      MC PLAYER JUMP_20: -1723150479
+      MC PLAYER JUMP_9: -692961967
+      MC PLAYER JUMP_8: -141952341
+      MC PLAYER JUMP_26: -509358860
+      MC PLAYER JUMP_16: 707017755
+      MC PLAYER JUMP_6: -1730742581
+      MC PLAYER JUMP_15: 720122123
+      MC PLAYER JUMP_11: 420584591
+      MC PLAYER JUMP_4: 1805957636
+      MC PLAYER JUMP_21: -180062435
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
